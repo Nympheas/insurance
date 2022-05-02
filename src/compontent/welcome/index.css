@@ -1,0 +1,14 @@
+.wapper {
+    width: 700px;
+    height: 400px;
+    background-color: #ccc;
+    margin: 100px auto;
+    padding-top: 100px;
+    text-align: center;
+}
+.wapper button {
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+}

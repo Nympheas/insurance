@@ -1,0 +1,52 @@
+.tellUs {
+    text-align: center;
+    padding-top: 100px;
+}
+form {
+    width: 150px;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 50px;
+}
+form div {
+    margin-bottom: 5px;
+}
+form label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+}
+form select {
+    position: absolute;
+    top: 125px;
+    left: 1px;
+}
+.cale {
+    width: 600px;
+    height: 350px;
+    background-color: #ccc;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.package {
+    width: 250px;
+    text-align: left;
+    margin: 0 auto;
+}
+.package div {
+    margin-bottom: 10px;
+}
+p {
+    font-weight: bold;
+}
+.btn-group button {
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    margin-right: 10px;
+    border: none;
+}
+.btn-group button:first-child {
+    background-color: #fff;
+}
